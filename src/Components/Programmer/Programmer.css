@@ -1,0 +1,32 @@
+.programmer{
+    background-color: black;
+    
+    margin-top: 10px;
+    height: 350px;
+    padding: 25px 5px;
+    border-radius: 10px;
+}
+.img-div{
+    text-align: center;
+}
+.img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.ul{
+    color: whitesmoke;
+    margin-top: 10px;
+    list-style: none;
+}
+.button-div{
+    text-align: center;
+    margin-top: 15px;
+}
+.button{
+    background-color: rgb(240, 209, 219) ;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 30px;
+}
