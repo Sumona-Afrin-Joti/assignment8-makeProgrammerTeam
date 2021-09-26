@@ -14,7 +14,7 @@ const Programmer = (props) => {
                     <li>Name: <span> {name} </span></li>
                     <li>Age: <span> {age} </span></li>
                     <li>Role: <span> {role} </span></li>
-                    <li>Salary: <span> {salary} </span></li>
+                    <li>Salary: $ <span> {salary} </span></li>
                     <li>Country: <span>{country} </span></li>
                 </ul>
                 <div className="button-div">
